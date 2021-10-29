@@ -1,1 +1,7 @@
 ## CH 22 DISCUSSION 
+
+1. Assume you are the president of Your Company. Offer defensive strategies. 
+ - Like many people are saying lowering my prices would grab more of those customers and bring them back. Now although this would technically change the amount of money brought in my company is much better at adapting to price changes because of its variable pay for tour guides. So to be defensive I would lower my prises to an amount that would still hurt but would not hurt as much as your company which has a certain point where money is never gained because of that fixed pay. 
+  
+2. Select a type of business operation. Identify and describe a variable cost, fixed cost, and mixed cost incurred by that type of business.
+ - Since I work for an event planning business Ill do that. Variable costs could be conference centers or other rental location, stage construction, lighting, etc. Then the fixed costs would be employee salaries, equipment that is used by those employees, work spaces for those employees, etc. The mixed costs would be things that charge at a certain rate but have over use fees, so CRM tools like salesforce would fall into that category. For example in my job emails are sent out to attends of events and we have a certain cap for the amount we can send or rather what plan we have paid for if the amount goes over that we have added costs on top of that fixed cost making it mixed. Another example would be phone service or internet service with the same type of scenario; over use equals added costs. 
