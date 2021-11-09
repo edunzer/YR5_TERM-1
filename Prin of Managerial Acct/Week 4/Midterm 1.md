@@ -1,28 +1,46 @@
 ## MIDTERM 1
 
-PartialQuestion 1
+Question 1
 14 / 20 pts
 Match the following items:
+Correct!
 Direct materials 
 Materials that can be physically and directly associated with manufacturing a product.
+Correct!
 Manufacturing overhead 
 Indirect costs of manufacturing a product.
+Correct!
 Period costs 
 Costs that are noninventoriable.
+Correct!
 Value chain 
 All business processes associated with providing a product or service.
+Correct!
 Work in process inventory 
 The cost of products that are partially complete.
+You Answered
 Job order cost system 
 The cost of products that are partially complete.
+  
+Correct Answerappropriate when products have distinguishing and heterogeneous characteristics.
+Correct!
 Predetermined overhead rate 
 Used to apply manufacturing overhead to work in process.
+You Answered
 Process cost system 
 All business processes associated with providing a product or service.
+  
+Correct AnswerAppropriate when products are similar and are produced continuously.
+Correct!
 Underapplied overhead 
 When actual manufacturing overhead costs are greater than the overhead applied to products.
+You Answered
 Equivalent units of production 
 Appropriate when products are similar and are produced continuously.
+  
+Correct AnswerWork done during a period expressed in fully completed units.
+Other Incorrect Match Options:
+When actual manufacturing overhead costs are less than the overhead applied to products.
  
 Question 2
 15 / 15 pts
@@ -85,37 +103,37 @@ Gross Profit		$
  
 
 Answer 1:
-14,000
+Correct!14,000
 Answer 2:
-110,000
+Correct!110,000
 Answer 3:
-60,000
+Correct!60,000
 Answer 4:
-73,000
+Correct!73,000
 Answer 5:
-243,000
+Correct!243,000
 Answer 6:
-257,000
+Correct!257,000
 Answer 7:
-8,000
+Correct!8,000
 Answer 8:
-249,000
+Correct!249,000
 Answer 9:
-320,000
+Correct!320,000
 Answer 10:
-15,000
+Correct!15,000
 Answer 11:
-249,000
+Correct!249,000
 Answer 12:
-264,000
+Correct!264,000
 Answer 13:
-12,000
+Correct!12,000
 Answer 14:
-252,000
+Correct!252,000
 Answer 15:
-68,000
+Correct!68,000
  
-PartialQuestion 3
+Question 3
 2 / 8 pts
 Builder Bug company allocates manufacturing overhead at $9 per direct labor hour. Job A45 required 5 boxes of direct materials at a cost of $30 per box and took employees 15 hours to complete. Employees earn $15 per hour. 
 
@@ -132,13 +150,19 @@ $
 $ 
 438
 Answer 1:
-150
+Correct!150
 Answer 2:
-180
+You Answered180
+Correct Answer
+225 
 Answer 3:
-108
+You Answered108
+Correct Answer
+135 
 Answer 4:
-438
+You Answered438
+Correct Answer
+510 
  
 Question 4
 13 / 13 pts
@@ -196,53 +220,123 @@ a
  
 
 Answer 1:
-C
+Correct!C
+Correct Answer
+c 
 Answer 2:
-F
+Correct!F
+Correct Answer
+f 
 Answer 3:
-H
+Correct!H
+Correct Answer
+h 
 Answer 4:
-A
+Correct!A
+Correct Answer
+a 
 Answer 5:
-D
+Correct!D
+Correct Answer
+d 
 Answer 6:
-C
+Correct!C
+Correct Answer
+c 
 Answer 7:
-G
+Correct!G
+Correct Answer
+g 
 Answer 8:
-A
+Correct!A
+Correct Answer
+a 
 Answer 9:
-D
+Correct!D
+Correct Answer
+d 
+Correct Answer
+H 
+Correct Answer
+h 
 Answer 10:
-H
+Correct!H
+Correct Answer
+D 
+Correct Answer
+d 
+Correct Answer
+h 
 Answer 11:
-G
+Correct!G
+Correct Answer
+g 
 Answer 12:
-H
+Correct!H
+Correct Answer
+h 
 Answer 13:
-C
+Correct!C
+Correct Answer
+c 
 Answer 14:
-D
+Correct!D
+Correct Answer
+d 
 Answer 15:
-H
+Correct!H
+Correct Answer
+h 
 Answer 16:
-E
+Correct!E
+Correct Answer
+e 
 Answer 17:
-D
+Correct!D
+Correct Answer
+d 
 Answer 18:
-B
+Correct!B
+Correct Answer
+b 
+Correct Answer
+I 
+Correct Answer
+i 
 Answer 19:
-I
+Correct!I
+Correct Answer
+B 
+Correct Answer
+b 
+Correct Answer
+i 
 Answer 20:
-J
+Correct!J
+Correct Answer
+j 
+Correct Answer
+E 
+Correct Answer
+e 
 Answer 21:
-E
+Correct!E
+Correct Answer
+J 
+Correct Answer
+j 
+Correct Answer
+e 
 Answer 22:
-F
+Correct!F
+Correct Answer
+f 
 Answer 23:
-A
+Correct!A
+Correct Answer
+a 
  
-PartialQuestion 5
+Question 5
 4 / 6 pts
 Martin Company applies manufacturing overhead based on direct labor hours. Information concerning manufacturing overhead and labor for the year follows:
 
@@ -264,13 +358,23 @@ over
  
 
 Answer 1:
-12
+Correct!12
+Correct Answer
+12.00 
 Answer 2:
-12.5
+You Answered12.5
+Correct Answer
+57,600.00 
+Correct Answer
+57600.00 
+Correct Answer
+57,600 
 Answer 3:
-over
+Correct!over
+Correct Answer
+over-applied 
  
-PartialQuestion 6
+Question 6
 3 / 13 pts
 Romero Company--Perth Division is a new state of the art production facility that manufactures landing gears for airplanes. The September 30th ending work in process is comprised of labor and overhead and is approximately 40% complete. All materials are assumed to be 100% complete. Total materials costs during the period totaled $840,000.
 
@@ -313,28 +417,66 @@ Costs accounted for
       Conversion costs		48,000	
 Total costs			$ 1,104,000
 Answer 1:
-500
+Correct!500
 Answer 2:
-200
+Correct!200
 Answer 3:
-1100
+Correct!1100
+Correct Answer
+1,100 
 Answer 4:
-(You left this blank)
+You Answered(You left this blank)
+Correct Answer
+264,000 
+Correct Answer
+264000 
 Answer 5:
-(You left this blank)
+You Answered(You left this blank)
+Correct Answer
+1,400 
+Correct Answer
+1400 
 Answer 6:
-(You left this blank)
+You Answered(You left this blank)
+Correct Answer
+1,100 
+Correct Answer
+1100 
 Answer 7:
-(You left this blank)
+You Answered(You left this blank)
+Correct Answer
+600 
 Answer 8:
-(You left this blank)
+You Answered(You left this blank)
+Correct Answer
+840 
 Answer 9:
-(You left this blank)
+You Answered(You left this blank)
+Correct Answer
+860,600 
+Correct Answer
+860600 
 Answer 10:
-(You left this blank)
+You Answered(You left this blank)
+Correct Answer
+1,104,000 
+Correct Answer
+1101000 
 Answer 11:
-(You left this blank)
+You Answered(You left this blank)
+Correct Answer
+756,000 
+Correct Answer
+756000 
 Answer 12:
-(You left this blank)
+You Answered(You left this blank)
+Correct Answer
+300,000 
+Correct Answer
+300000 
 Answer 13:
-(You left this blank)
+You Answered(You left this blank)
+Correct Answer
+348,000 
+Correct Answer
+348000 
